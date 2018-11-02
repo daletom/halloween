@@ -1,0 +1,30 @@
+{
+  "bookendVersion": "v1.0",
+  "shareProviders": [
+    "facebook",
+    "twitter",
+    "email"
+  ],
+  "components": [
+    {
+      "type": "heading",
+      "text": "More Sections on Zeek"
+    },
+    {
+      "type": "landscape",
+      "title": "Zeek's Disney Trip",
+      "url": "https://thedales.me/disney/",
+      "image": "https://tom.imgix.net/disney_zeek_castle.HEIC?auto=format,compress&w=720&h=1280&fit=fill&fill=blur",
+      "category": "Disney"
+    },
+    {
+      "type": "cta-link",
+      "links": [
+        {
+          "text": "Go Back Home",
+          "url": "https://thedales.me/"
+        }
+      ]
+    }
+  ]
+}
